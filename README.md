@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bikeshare
 In this project, you will create a GitHub repository and your local repository. You will work on a repo for your BikeShare project, making multiple branches, making edits to files on those branches (e.g., a readme file and your Python code), and then you will commit the changes to your remote repository.
 =======
@@ -43,10 +42,3 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 • counts of each user type
 • counts of each gender (only available for NYC and Chicago)
 • earliest, most recent, most common year of birth (only available for NYC and Chicago)
-
-The Files
-You will need the three city dataset files:
-• chicago.csv
-• new_york_city.csv
-• washington.csv
->>>>>>> bf996c7 (Bikeshare)
